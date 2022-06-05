@@ -6,6 +6,6 @@ To run this project, you must install Terraform version 1.2.2  and log in to Azu
 **Expected Result**  
 
 Terraform Output:  
-<img src="https://terrafromtest2022.s3.amazonaws.com/result1.jpg" alt="Alt text" title="Terraform output">  
+<img src="https://terrafromtest2022.s3.amazonaws.com/result.jpg" alt="Alt text" title="Terraform output">  
 Azure Portal:  
 <img src="https://terrafromtest2022.s3.amazonaws.com/result2.jpg" alt="Alt text" title="Azure Portal">
